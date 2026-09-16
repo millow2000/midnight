@@ -5,6 +5,7 @@ Midnight Tales is a personal literary site publishing original suspense and supe
 - Authors: ziye, stone
 - Language: English
 - License: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+  
 Stories
 - Human Skin — Seven years into her marriage, heavy with child, she went to catch her husband cheating. She pushed the door open and found a floor of blood and two flayed human skins. One belonged to the other woman. The other belonged to her husband. Later she discovered that the whole world had been his betrothal gift to her.
 - Mirror Abyss — When I woke, I had become a palace maid of ancient times—while my missing boyfriend was already another woman’s husband. The emperor here loathes time travelers; every three years comes a purge. I pretended to drown in imperial favor; he pretended to give me his true heart. On the night of the Mid-Autumn Festival, I discovered he had seen through everything long ago.
@@ -20,8 +21,10 @@ Stories
 - The Flying Fish's Scheme — When the flying fish draws its blade, blood is sure to flow. Everyone says the Flying Fish of Yandang is one person — but few know it is a pair of brothers.
 - After One Hundred Thousand Sword Strokes — Ning Family Fortress burned to ash overnight, and the young Ning Wanjian knelt in the snow seeking only a sword that could avenge his family.
 13 stories are complete, free to read in the browser, and require no registration.
+  
 Content advisory
 Some stories are tagged "Content Warning" and may include violence, death, or disturbing content. Reader discretion is advised.
+
 License
 Text (c) the author. Licensed under CC BY-NC-ND 4.0 — free to read and share with attribution; commercial use and derivative works are not permitted.
 
