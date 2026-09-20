@@ -5,6 +5,7 @@ Midnight Tales
 - Authors: ziye, stone, green
 - Language: English
 - License: CC BY-NC-ND 4.0 (read the license)
+
 Every story is free to read in full, in the browser, with no signup and no paywall.
 What this is
 Midnight Tales is a personal literary site publishing original Chinese suspense and folk-horror short fiction in English.
@@ -15,6 +16,7 @@ Not detective fiction. Not serial killers. Not psychological thrillers about a h
 - karmic debts repaid blade by blade
 - imperial palaces, and wuxia blades avenging burned fortresses
 It lives in a mountain village where the rain brings wedding guests who are not people. In a rice jar that must stay closed. In a night bus whose destination reads "Heaven".
+
 Stories
 Supernatural
 - The Rice Jar · ziye · 49 min — Twin sisters are a pair of NPCs in a horror game's mountain village — a pinch of seasoning for the boss lords. They have waited a whole lifetime to escape through that door.
@@ -35,8 +37,11 @@ Historical & Wuxia
 - The Flying Fish's Scheme · ziye · 12 min — When the flying fish draws its blade, blood is sure to flow. Everyone says the Flying Fish of Yandang is one person — few know it is a pair of brothers.
 Content advisory
 These stories may include violence, death, and disturbing content; some works also contain depictions of sexual assault and dismemberment. Reader discretion is strongly advised. Not recommended for readers under 18 or for those sensitive to the themes above.
+
 License
 Text © the authors. Licensed under CC BY-NC-ND 4.0 — free to read and share with attribution. Commercial use and derivative works are not permitted.
 About this repository
+
 This repo is the companion index of greenstonenovel.com. The stories themselves are published on the site and are not mirrored here as full text.
+
 Suggested GitHub topics: short-stories horror chinese-horror folk-horror supernatural wuxia suspense creative-writing static-site
