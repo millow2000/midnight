@@ -44,4 +44,4 @@ About this repository
 
 This repo is the companion index of greenstonenovel.com. The stories themselves are published on the site and are not mirrored here as full text.
 
-Suggested GitHub topics: short-stories horror chinese-horror folk-horror supernatural wuxia suspense creative-writing static-site
+Suggested GitHub topics: short-stories horror chinese-horror folk-horror supernatural wuxia suspense creative-writing
