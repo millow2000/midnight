@@ -5,6 +5,7 @@ Chinese Suspense Short Stories — Guai-tan legends, village rites, and wuxia bl
 - Authors: ziye, stone, green · Classical retellings after Pu Songling (Qing dynasty)
 - Language: English
 - License: CC BY-NC-ND 4.0 (read the license)
+
 What this is
 Midnight Tales is a personal literary site publishing Chinese suspense and folk-horror short fiction in two sections:
 - Suspense Stories — original short stories written for the site.
@@ -17,6 +18,7 @@ Not detective fiction. Not serial killers. Not psychological thrillers about a h
 - imperial palaces, and wuxia blades avenging burned fortresses
 It lives in a mountain village where the rain brings wedding guests who are not people. In a rice jar that must stay closed. In a night bus whose destination reads "Heaven".
 Every work is free to read in full, in the browser. No signup, no paywall.
+
 Suspense Stories
 19 original stories · 169,216 words · about 14 hours
 Supernatural
@@ -48,10 +50,13 @@ Classics of the Strange
 - The Talking Pupils · Pu Songling · 6 min — A scholar of Chang'an is struck blind as retribution — only for tiny people to appear inside his pupils and converse.
 - The Wall Painting · Pu Songling · 6 min — A scholar grows so obsessed with a celestial maiden painted on a temple wall that he enters the paradise within the mural.
 - Wang Liulang · Pu Songling · 11 min — The bond between a fisherman and the ghost of a drowned man; a merciful heart moves the Lord of Heaven, and in the end the ghost becomes a god.
+
 Content advisory
 These works may include violence, death, and disturbing content. Some contain depictions of sexual assault, dismemberment, and bodily horror. Reader discretion is strongly advised. Not recommended for readers under 18 or for those sensitive to the themes above. Individual stories carry content-warning tags on the site.
+
 License
 © the authors. Licensed under CC BY-NC-ND 4.0 — free to read and share with attribution. Commercial use and derivative works are not permitted.
+
 About this repository
 This repository is the companion index of greenstonenovel.com. The stories themselves are published on the site and are not mirrored here as full text — this repo carries titles, one-line hooks, genre, reading time and canonical links only.
 Machine-readable companions on the site: /sitemap.xml · /llms.txt · /stories.json
